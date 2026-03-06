@@ -1,47 +1,35 @@
-<h2 align="left">About me</h2>
+<!-- Header Animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rennan+Araujo!;Java+Backend+Developer;Welcome+to+my+Profile!&color=70A5FD" />
+</h1>
 
-###
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header&text=Backend%20Java%20Developer&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</p>
 
-<p align="left">- Java developer<br><br>🚀 Entusiasta de tecnologia que respira backend em Java. Gosto de transformar café em código limpo, e problemas complexos em soluções elegantes. Aqui você vai encontrar um pouco do que venho criando, aprendendo e quebrando a cabeça (com alegria). Sempre em busca de novos desafios e colaborações que me tirem da zona de conforto e empurrem meu código para o próximo nível.</p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RennAraujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RennAraujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RennAraujo&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/rennanaraujo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<!-- Badges de Contato -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rennanaraujo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=70A5FD" />
   </a>
-</div>
+  <a href="mailto:rennan771@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=70A5FD" />
+  </a>
+  <a href="https://github.com/RennAraujo">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&color=70A5FD" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&color=70A5FD&labelColor=1A1B27" />
+</p>
 
-###
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Rennan Araujo
+role: Java Backend Developer
+location: Brazil
+stack: [Java, Spring Boot, Docker, SQL/NoSQL]
+focus: "Transformando café em código limpo ☕"
+available_for_work: true
