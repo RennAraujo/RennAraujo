@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rennan-araújo-8a011a175/" target="_blank">
+  <a href="www.linkedin.com/in/rennanaraujo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
